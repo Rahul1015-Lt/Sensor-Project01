@@ -1,0 +1,4 @@
+# we are required to not upload some unncessary files in git repository 
+# so we will be uploading it here 
+venv/ 
+# enviornment file 
